@@ -2,6 +2,7 @@
 name: portable-market-brief
 display_name: Portable Market Brief
 description: Summarize market moves for a ticker or index and keep the prompt portable across devices.
+author: panda-community
 tags: finance,community
 session_behavior: always_create_new
 execution_mode: send_message
