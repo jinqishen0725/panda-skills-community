@@ -2,6 +2,7 @@
 name: daily-standup-summary
 display_name: Daily Standup Summary
 description: Turn scratch notes into a concise standup update with blockers and next steps.
+author: panda-community
 tags: productivity,community
 session_behavior: prefer_active_or_latest
 execution_mode: send_message
